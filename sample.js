@@ -2,7 +2,7 @@ import React from 'react'
 
 function sample() {
   return (
-    <div>sample</div>
+    <div>sample change</div>
   )
 }
 
